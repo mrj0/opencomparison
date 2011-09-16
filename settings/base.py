@@ -132,6 +132,7 @@ PROJECT_APPS = [
     "profiles",
     "searchv1",
     "apiv1",
+    "apiv2",
     "feeds",
     "pypi",
 ]
@@ -155,6 +156,7 @@ PREREQ_APPS = [
     "django_extensions",
     "south",
     "tastypie",
+    "djangorestframework",
     "reversion",
     "django_sorting",
     "flatblocks",
